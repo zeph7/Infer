@@ -12,7 +12,7 @@ This will depict how well you enjoyed every movie you have seen in your life, th
 
 ### Requirements
 
-Python 3 - version 3.6.5 
+Python 3 - version 3.6.5
 module - random, time, sys
 
 ### How to play?
@@ -21,6 +21,6 @@ guess the movie name letter by letter, right will fill up the underscore and wro
 A total of 9 lives are provided for guessing each movie!!
 
 
-Play Efficinet!!
+Play Efficiently!!
 
 Enjoy the Game!!
