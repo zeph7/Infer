@@ -4,6 +4,23 @@ Hollywood movie guessing game!!
 
 ![](https://i.ytimg.com/vi/1aZZKXbzEZk/hqdefault.jpg)
 
-![](https://www.boredart.com/wp-content/uploads/2015/01/famous-movie-posters-of-All-time-Hollywood-8.jpg) ![](https://s-media-cache-ak0.pinimg.com/originals/6f/15/bb/6f15bbe260e0a57cafdeea276f08b1bc.jpg) ![](https://cdn.movieweb.com/img.site/PHMidPJqg3TMQN_1_l.jpg) ![](https://s-media-cache-ak0.pinimg.com/originals/f5/7c/dc/f57cdc39220901755ad30c6f6064e09d.jpg)
+### What its for?
+
+Basically its a fun activity, here you can check your knowledge of all your watched hollywood movies by guessing the movie name selected by computer randomly from external files.
+
+This will depict how well you enjoyed every movie you have seen in your life, that you remembered their names..
+
+### Requirements
+
+Python 3 - version 3.6.5 
+module - random, time, sys
+
+### How to play?
+
+guess the movie name letter by letter, right will fill up the underscore and wrong will cut a letter from the word "holllywood".
+A total of 9 lives are provided for guessing each movie!!
 
 
+Play Efficinet!!
+
+Enjoy the Game!!
