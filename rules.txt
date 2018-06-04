@@ -1,0 +1,35 @@
+ About game:
+ 
+	Its actually a "Hollywood Movie guessing game".
+	Named "Infer" as in infer means - to guess accurately.
+
+	Movie name with few letters available will be shown on the
+	screen and your task is to guess the remaining letters to
+	access the full name.
+
+ Rules:
+	1. You have to enter a guessed letter that might be in
+	   the movie name.
+	
+	2. If any single letter (to be guessed) is not on the screen earlier,
+	   after it will take all its consequent places.
+
+	3. You can re-enter any letter that is previously shown on the screen
+	   by the program as their might be other places in the movie name
+	   with the same letter 
+
+	4. If guessed letter fits in the movie name, it will take its subsequent
+	   places else your one live will be deducted by cutting of a letter
+	   of the word "hollywood" means you have 9 lives (in total).
+
+	5. All 9 lives lost without getting the full movie name, you lose!!
+
+	6. Press y(yes) or n(no), if you want to play again or not.
+
+	7. If you get boared or confused in the middle of a game, you can type in
+	   "new" to initialize a new game.
+
+	8. If anytime you want to quit, just type in "quit" or "exit".
+
+
+ Enjoy the GAME!!!
