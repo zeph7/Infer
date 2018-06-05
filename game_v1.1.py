@@ -75,7 +75,6 @@ print('\n\n\n')
 movie_company = 'hollywood'
 movie_list = ['a-c', 'd-f', 'g-i', 'j-l', 'm-o', 'p-s', 't-v', 'w-z']
 flag = False
-flag_ = False
 flag2 = False
 
 while(test):
@@ -94,6 +93,7 @@ while(test):
     print_(temp_name)
     temp = []
     j = 0
+    flag_ = False
 
     while(len(temp) < 9):
 
