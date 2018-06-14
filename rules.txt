@@ -7,7 +7,9 @@
 	screen and your task is to guess the remaining letters to
 	access the full name.
 
- Rules:
+
+ Rules for version 1.1:
+
 	1. You have to enter a guessed letter that might be in
 	   the movie name.
 	
@@ -31,5 +33,21 @@
 
 	8. If anytime you want to quit, just type in "quit" or "exit".
 
+
+ Rules for version 1.2:
+
+	1. Basic rules are same, like all in verion 1.1, some extra
+	   in version 1.2 are:
+
+	2. Five movies are to be guessed in a SERIES OF FIVE ROUNDS
+
+	3. Score is calculated for each round which is the 150 multipled by the 
+	   remaining no. of letters left uncutted in HOLLYWOOD (or say no. of
+	   lives remaining, times 150)
+
+	4. The sum of scores in each round, is the NET_SCORE which is putted
+	   on the LEADERSHIP_BOARD along with PLAYER_NAME. LEADERBOARD is shown
+	   at the end of five round series.
+	   
 
  Enjoy the GAME!!!
