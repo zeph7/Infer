@@ -221,7 +221,6 @@ while(test):
         print1('\n'+str(name)+', your round score : '+str(temp_score)+'\n\n')
         
         round_ += 1
-        flag = True
         
         if round_ > 5:
             time.sleep(1)
