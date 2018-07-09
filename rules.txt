@@ -26,12 +26,12 @@
 
 	5. All 9 lives lost without getting the full movie name, you lose!!
 
-	6. Press y(yes) or n(no), if you want to play again or not.
+	6. Press y(yes) or n(no), if you want to play again or not, when asked at last.
 
-	7. If you get boared or confused in the middle of a game, you can type in
-	   "new" to initialize a new game.
+	7. If you get boared or confused in the middle of a game, you can press
+	   "+" to initialize a new game.
 
-	8. If anytime you want to quit, just type in "quit" or "exit".
+	8. If anytime you want to quit, just press "-".
 
 
  Rules for version 1.2:
