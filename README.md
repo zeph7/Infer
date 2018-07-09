@@ -20,6 +20,15 @@ module - random, time, sys
 guess the movie name letter by letter, right will fill up the underscore and wrong will cut a letter from the word "holllywood".
 A total of 9 lives are provided for guessing each movie!!
 
+### Screenshots
+
+![](https://github.com/ashish7zeph/Infer/blob/master/screenshot/img1.png)
+
+![](https://github.com/ashish7zeph/Infer/blob/master/screenshot/img2.png)
+
+![](https://github.com/ashish7zeph/Infer/blob/master/screenshot/img3.png)
+
+![](https://github.com/ashish7zeph/Infer/blob/master/screenshot/img4.png)
 
 Play Efficiently!!
 
