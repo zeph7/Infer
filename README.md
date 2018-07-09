@@ -13,7 +13,8 @@ This will depict how well you enjoyed every movie you have seen in your life, th
 ### Requirements
 
 Python 3 - version 3.6.5
-module - random, time, sys
+module - random, time, os, msvcrt sys
+most likely to be preinstalled in python 3
 
 ### How to play?
 
